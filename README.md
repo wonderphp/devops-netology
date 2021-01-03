@@ -7,3 +7,6 @@
 4. override.tf, override.tf.json. Оканчивающиеся на *_override.tf и на *_override.tf.json
 5. Исключение ! заакоменчено
 6. С расширением .terraformrc и terraform.rc
+
+
+# Новая строка для урока ветвлений
